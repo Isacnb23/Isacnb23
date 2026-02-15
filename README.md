@@ -72,8 +72,3 @@ I'm a **Software Engineering student** from **Costa Rica**, focused on building 
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=38bdf8&style=flat-square" />
-</div>
