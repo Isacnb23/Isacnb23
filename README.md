@@ -52,9 +52,6 @@ I'm a **Software Engineering student** from **Costa Rica**, focused on building 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=isacnb23&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacnb23&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=Isacnb23&theme=tokyonight&hide_border=true" />
 
