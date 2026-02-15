@@ -20,55 +20,44 @@ I'm a **Software Engineering student** from **Costa Rica**, focused on building 
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
 ### 🧠 Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,js,ts,python,dart,html,css" />
 
-### 🧩 Frameworks & Tools
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,nextjs,tailwind" />
+
+### 🧩 Backend
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs" />
 
 ### 🗄️ Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=sqlserver,mongodb,postgres,mysql" />
 
-### ⚙️ Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,azure,docker" />
+
+### 🧪 Virtualization / DevOps
+<img src="https://skillicons.dev/icons?i=linux,bash,nginx" />
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **PymeCo** | POS system for Costa Rican SMEs | ASP.NET Core · React · SQL Server |
-| **FA Autos** | Vehicle catalog platform | React · Node.js |
-| **PaliHelados** | Mobile app for ice cream shop | Flutter · Dart |
 
 ---
+
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=isacnb23&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacnb23&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=isacnb23&theme=tokyonight&hide_border=true" />
+
 
 </div>
 
@@ -79,7 +68,7 @@ I'm a **Software Engineering student** from **Costa Rica**, focused on building 
 <div align="center">
 
 🚀 **My freelance studio:**  
-🔗 **https://prismcode.com** *(cambiá esto por tu link real)*
+🔗 **https://prismcode.com
 
 </div>
 
