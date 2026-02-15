@@ -14,7 +14,6 @@ I'm a **Software Engineering student** from **Costa Rica**, focused on building 
 
 - 🎓 Software Engineering student at **Universidad Fidélitas**
 - 💼 Founder of **PrismCode** — freelance development studio
-- 🏗️ Building **PymeCo** — a POS system for SMEs
 - 🏎️ Automotive & motorcycle mechanics enthusiast
 - 🌎 Based in Costa Rica 🇨🇷
 
